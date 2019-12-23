@@ -1,0 +1,2 @@
+export const FETCH_PRODUCT = 'FETCH_PRODUCT'
+export const SIMPAN_USER = 'SIMPAN_USER'
